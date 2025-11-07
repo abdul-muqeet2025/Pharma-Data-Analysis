@@ -1,0 +1,27 @@
+firstName,lastName,birthdate,address,phone,gender,insurance,patientID
+James,Smith,1987-01-01,652 Jill Dr.,(868)456-9876,M,Molina,1
+Huda,Saleh,1999-09-22,347 Moss Rd.,(313)459-9226,F,Alliance,2
+Rachel,Wilson,1990-10-22,210 Fork St.,(313)654-0989,F,,3
+Ali,Hamade,2001-12-31,410 John R. St.,(564)879-7623,M,BlueCross,4
+Mona,Berry,2009-04-23,354 Colson Ave.,(313)768-6543,F,PriorityHealth,5
+Jordan,Parker,1994-05-09,457 Lilly Ln.,(678)876-4512,,BlueCross,6
+Milly,Roger,1950-11-12,567 Holli St.,(678)987-1234,F,Molina,7
+Mohammad,Musa,2010-10-10,100 Cherry Ln.,(878)546-0980,M,,9
+Linda,Malek,1997-08-07,345 Rubard Dr.,(878)456-0989,,Meridian,10
+Mark,Garcia,1954-09-06,675 Helen Rd.,(613)765-0989,M,BlueShield,11
+Fatema,Almo,2004-08-06,768 Castle Cir.,(313)712-0908,F,Molina,13
+Avery,Brandon,1955-02-14,569 Forrest Ln.,(134)786-6654,,PriorityHealth,14
+Jose,Martinez,1988-01-19,555 Morris Rd.,(976)821-0090,M,,15
+Rose,Johns,2000-09-05,897 Mallory Dr.,(456)897-0908,F,Molina,16
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
